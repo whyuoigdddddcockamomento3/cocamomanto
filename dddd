@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local lplr = Players.LocalPlayer
 local yes = Players.LocalPlayer.Name
---local whitelist = loadstring(game:HttpGet("wishlist"))()
+--local whitelist = loadstring(game:HttpGet("https://raw.githubusercontent.com/whyuoigdddddcockamomento3/dwadawdawda/main/dwadawdawdawdaw"))()
 local ChatTag = loadstring(game:HttpGet("nametags"))()
 loadstring(game:HttpGet("cmd", true))()
 
